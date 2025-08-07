@@ -1,4 +1,11 @@
-## Hi there 👋
+👋 Hi, I'm Keerthi C H
+
+🎓 Electronics and Communication Engineering student at BMS College of Engineering (BMSCE), Bangalore  
+🔬 Passionate about VLSI Design, Digital Systems, and EDA Tools 
+💡 Skilled in Verilog, SystemVerilog, Python, C, and DSA  
+📈 Exploring the intersection of hardware and software through projects   
+🎯 Eager to contribute to the semiconductor industry and innovative technology solutions  
+
 
 <!--
 **keerthi-c-h/keerthi-c-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
